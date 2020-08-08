@@ -1,0 +1,26 @@
+{
+  "name": "yelpcamp",
+  "version": "1.0.0",
+  "description": "Yelpcamp is a website where you can add Camps Title and Images built using NODEJS EXPRESSJS AND EJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Khattech"
+  },
+  "keywords": [
+    "NODEJS",
+    "EXPRESSJS",
+    "EJS"
+  ],
+  "author": "SHIVAM KHATTRI",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.3",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
